@@ -19,3 +19,8 @@
 - LIMS Platform (Saudi Compliance)
 
 📫 Contact: mfahmim.dev@gmail.com
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Source-C0de&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Source-C0de&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Source-C0de&theme=tokyonight)
