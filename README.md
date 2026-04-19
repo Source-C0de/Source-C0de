@@ -7,6 +7,13 @@
 - PostgreSQL / System Design / Redis 
 - Cloud (AWS, Vercel, Railway, Docker)
 
+## 💼 What I Do
+✔ Backend API Development  
+✔ System Design  
+✔ Database Architecture  
+✔ SaaS Development  
+
+
 💼 Currently working on:
 - Fleet Management System
 - LIMS Platform (Saudi Compliance)
