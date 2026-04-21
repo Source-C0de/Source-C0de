@@ -3,7 +3,7 @@
 
 🚀 Specialized in:
 - Pyhton / Typescript / Golang
-- FastAPI / Node.js 
+- FastAPI / Node.js / Gin
 - PostgreSQL / System Design / Redis 
 - Cloud (AWS, Vercel, Railway, Docker)
 
